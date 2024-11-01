@@ -1,5 +1,5 @@
-github.com/KEINOS/go-relver v0.0.0-20241101013751-e3e0b9b3ba2c h1:b9bEiy0oL6ynyJocqHvh1IqCGuMGCFBBDAitn3NPnc0=
-github.com/KEINOS/go-relver v0.0.0-20241101013751-e3e0b9b3ba2c/go.mod h1:jBeWJBOtnqoMLa889r6EF9GaaJZMUi0T6q8C4fvf/NI=
+github.com/KEINOS/go-relver v1.0.0 h1:sw6hKjjSzZ7KhUmsSeNMYAwWJCLmlkm064VBO21fts4=
+github.com/KEINOS/go-relver v1.0.0/go.mod h1:jBeWJBOtnqoMLa889r6EF9GaaJZMUi0T6q8C4fvf/NI=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
