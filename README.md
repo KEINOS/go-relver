@@ -9,7 +9,7 @@ A simple Go package to **fetch the latest and stable release version of Go**.
 ## Usage
 
 ```shellsession
-$ # Instal the module
+$ # Install the module
 $ go get github.com/KEINOS/go-relver
 ...
 ```
