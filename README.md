@@ -1,7 +1,7 @@
 # go-relver - Retrieve the latest Go version
 
 [![go1.22+](https://img.shields.io/badge/Go-1.22+-blue?logo=go)](https://github.com/KEINOS/go-relver/blob/main/go.mod "Supported versions")
-[![GoDoc](https://godoc.org/github.com/KEINOS/go-relver?status.svg)](https://godoc.org/github.com/keinos/go-relver)
+[![GoDoc](https://godoc.org/github.com/KEINOS/go-relver?status.svg)](https://pkg.go.dev/github.com/KEINOS/go-relver)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A simple Go package to **fetch the latest and stable release version of Go**.
