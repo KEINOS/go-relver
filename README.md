@@ -2,7 +2,7 @@
 
 [![go1.22+](https://img.shields.io/badge/Go-1.22+-blue?logo=go)](https://github.com/KEINOS/go-relver/blob/main/go.mod "Supported versions")
 [![GoDoc](https://godoc.org/github.com/KEINOS/go-relver?status.svg)](https://pkg.go.dev/github.com/KEINOS/go-relver)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/KEINOS/go-relver/blob/main/LICENSE.md)
 
 A simple Go package to **fetch the latest and stable release version of Go**.
 
@@ -67,3 +67,25 @@ func Example_compare_go_versions() {
     // Output: You are using an outdated Go version.
 }
 ```
+
+## License
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/KEINOS/go-relver/blob/main/LICENSE.md)
+
+
+## Contributing
+
+[![go1.22+](https://img.shields.io/badge/Go-1.22+-blue?logo=go)](https://github.com/KEINOS/go-relver/blob/main/go.mod "Supported versions")
+[![GoDoc](https://godoc.org/github.com/KEINOS/go-relver?status.svg)](https://pkg.go.dev/github.com/KEINOS/go-relver)
+
+- Any feedbacks for the improvement are welcome!
+- Branch to PR: `main` <- `feature/your-idea`
+- Bug report: Open an [issue](https://github.com/KEINOS/go-relver/issues) with a simple code that reproduces the issue. That helps a lot.
+
+### Statuses
+
+[![Basic Tests](https://github.com/KEINOS/go-relver/actions/workflows/basic-tests.yml/badge.svg)](https://github.com/KEINOS/go-relver/actions/workflows/basic-tests.yml)
+[![CodeQL](https://github.com/KEINOS/go-relver/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/KEINOS/go-relver/actions/workflows/github-code-scanning/codeql)
+[![Dependabot Updates](https://github.com/KEINOS/go-relver/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/KEINOS/go-relver/actions/workflows/dependabot/dependabot-updates)
+[![Go Report Card](https://goreportcard.com/badge/github.com/KEINOS/go-relver)](https://goreportcard.com/report/github.com/KEINOS/go-relver)
+[![codecov](https://codecov.io/gh/KEINOS/go-relver/graph/badge.svg?token=x0G0b1zptx)](https://codecov.io/gh/KEINOS/go-relver)
