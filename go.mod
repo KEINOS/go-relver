@@ -7,7 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/mod v0.21.0
+	golang.org/x/mod v0.23.0
 )
 
 require (
