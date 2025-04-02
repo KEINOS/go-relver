@@ -1,6 +1,7 @@
 module github.com/KEINOS/go-relver
 
 go 1.23
+
 toolchain go1.24.1
 
 require (
