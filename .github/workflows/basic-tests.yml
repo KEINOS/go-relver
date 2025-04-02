@@ -21,9 +21,7 @@ jobs:
           go-version: '1'
           check-latest: true
       - name: Run unit test
-        run: |
-          go mod download
-          go test -race -v ./...
+        run: go test -race -v ./...
 
   min-ver:
     name: Min supported go version
@@ -31,9 +29,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Pull docker image of min supported version of Go
-        run: docker pull golang:1.22.0-alpine
+        run: docker pull golang:1.23-alpine
       - name: Run tests on docker
-        run: docker run --rm -v "$(pwd)":/workspace -w /workspace golang:1.22.0-alpine go test -timeout 30s -v ./...
+        run: docker run --rm -v "$(pwd)":/workspace -w /workspace golang:1.23-alpine go test -timeout 30s -v ./...
 
   latest-ver:
     name: Latest go version

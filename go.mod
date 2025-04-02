@@ -1,8 +1,8 @@
 module github.com/KEINOS/go-relver
 
-go 1.22.0
+go 1.23
 
-toolchain go1.23.2
+toolchain go1.24.1
 
 require (
 	github.com/pkg/errors v0.9.1
