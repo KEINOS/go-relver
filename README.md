@@ -1,4 +1,4 @@
-# go-relver - Retrieve the latest Go version
+# go-relver - Retrieve Go version of latest release
 
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/KEINOS/go-relver)](https://github.com/KEINOS/go-relver/blob/main/go.mod "Supported versions")
 [![GoDoc](https://godoc.org/github.com/KEINOS/go-relver?status.svg)](https://pkg.go.dev/github.com/KEINOS/go-relver)
