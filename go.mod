@@ -1,11 +1,11 @@
 module github.com/KEINOS/go-relver
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/mod v0.37.0
+	golang.org/x/mod v0.41.0
 )
 
 require (
